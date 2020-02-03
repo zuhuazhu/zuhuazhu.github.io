@@ -18,7 +18,7 @@
     font-size: 30px;
 }
 
-body {padding: 0; margin:0; background-image: url(/image/sky.jpg);background-size: cover}
+body {padding: 0; margin:0; background-image: url(image/sky.jpg);background-size: cover}
 #logo {position:absolute; left:550; top: 200;}
 #bmcc {position: absolute; left:550; top: 200;}
 #midterm {position: absolute; left: 300}
