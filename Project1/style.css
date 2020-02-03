@@ -1,0 +1,47 @@
+
+.main-nav{
+    position: relative; left: 500; 
+    list-style:none;
+    margin-top:40px;
+}
+
+.main-nav li
+{
+    display: inline-block;
+}
+
+.main-nav li a
+{
+    color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-size: 30px;
+}
+
+body {padding: 0; margin:0; background-image: url(../image/sky.jpg);background-size: cover}
+#logo {position:absolute; left:550; top: 200;}
+#bmcc {position: absolute; left:550; top: 200;}
+#midterm {position: absolute; left: 300}
+#final {position: absolute; left:320; top: 600}
+#final2 {position: absolute; left: 800; top: 600}
+#jay {position:absolute; left:800; top:;}
+
+
+h1 {color: #ffffff;}
+h1 {position: relative; left: 650;}
+
+h2{color: #ffffff;}
+h2{position: relative; left: 500; margin-top: 60px;}
+
+p{color: #ffffff;}
+p{position:relative; left: 200; margin-top: 60px;}
+
+h3{color: #ffffff}
+h3{position: relative; left: 1300;}
+
+h4{color: #ffffff}
+h4{position: relative; left: 1000;}
+
+
+
+
